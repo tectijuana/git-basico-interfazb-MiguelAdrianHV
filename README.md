@@ -4,7 +4,7 @@
 
 **Nombre:** Hernández Vázquez Miguel Adrián
 
-**Número de control:** 19211657git 
+**Número de control:** 19211657
 
 ## 📚Ejercicios
 
